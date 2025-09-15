@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">srinivas</string>
+    <string name="app_title">Hello World Options</string>
+    <string name="hello_world">Welcome! Choose an option below to get started.</string>
+    
+    <!-- Language Section -->
+    <string name="language_section">Programming Languages</string>
+    <string name="shell_hello">Shell Script Hello World</string>
+    <string name="python_hello">Python Hello World</string>
+    <string name="java_hello">Java Hello World</string>
+    
+    <!-- Math Section -->
+    <string name="math_section">Trigonometry Problems</string>
+    <string name="trig_problem1">Problem 1: sin(30°) = ?</string>
+    <string name="trig_problem2">Problem 2: cos(60°) = ?</string>
+    <string name="trig_problem3">Problem 3: tan(45°) = ?</string>
+    
+    <!-- Greeting Section -->
+    <string name="greeting_section">Personal Greeting</string>
+    <string name="greeting_button">Wish Sir</string>
+</resources>
